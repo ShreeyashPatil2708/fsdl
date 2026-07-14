@@ -82,8 +82,7 @@ fsdl-practical-assignments/
 
 ## Hosted Personal Profile Website
 
-**Live Website:**
-\
+https://fsdl-git-main-spikeshield2708.vercel.app/
 
 ---
 
